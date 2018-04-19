@@ -37,7 +37,7 @@
             </div>
             
             <nuxt-link class="help" to="/">登录遇到问题</nuxt-link>
-            <button>登录</button>
+            <button class="sign-in-btn">登录</button>
           </form>
         </div>
         <!-- 第三方 -->
